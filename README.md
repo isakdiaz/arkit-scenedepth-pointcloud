@@ -11,8 +11,20 @@ Place points in the real-world using the scene's depth data to visualize the sha
 Before you run the sample code project in Xcode, set the run destination to an iPad Pro with a LiDAR sensor, running iPadOS 14.0 or later.
 
 
+---
 
-Click Below to see a video sample of the project:
-[![Point Clouid Slamm](https://img.youtube.com/vi/xepcIAzD8zo/0.jpg)](https://youtu.be/xepcIAzD8zo "Ios Lidar Slam")
+Click Below to see a video sample of the project working on the Iphone 12 Pro LIDAR:
+
+## Test 1 - Vegetation
+
+[![Point Cloud Slam](https://img.youtube.com/vi/Mybgpf3F6aI/0.jpg)](https://youtu.be/Mybgpf3F6aI "Ios Lidar Slam")
+
+
+## Test 2 - Vehicle
+
+[![Point Cloud Slam](https://img.youtube.com/vi/xepcIAzD8zo/0.jpg)](https://youtu.be/xepcIAzD8zo "Ios Lidar Slam")
+
+
+
 
 
